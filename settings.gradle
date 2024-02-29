@@ -1,0 +1,3 @@
+rootProject.name = "HHGithubSdk"
+include ':app'
+include ':HHmedicSdk'
